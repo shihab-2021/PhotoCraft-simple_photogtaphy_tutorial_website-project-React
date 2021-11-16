@@ -1,0 +1,6 @@
+.btnDeco {
+    text-decoration: none;
+}
+.btnDeco:hover {
+    color: white!important;
+}

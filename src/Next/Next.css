@@ -1,0 +1,19 @@
+#showcase2 {
+    min-height: 450px;
+    background: url(https://www.surfphotographyguide.com/wp-content/uploads/2019/08/561256-PKT1PB-639-min-1280x640.jpg) center center / cover;
+    color: #ffffff;
+    display: flex;
+    position: relative;
+    z-index: 1;
+}
+#showcase2::after {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    background-color: black;
+    opacity: 0.5;
+    z-index: -1;
+}

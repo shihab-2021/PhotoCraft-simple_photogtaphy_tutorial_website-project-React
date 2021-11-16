@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Akronim&family=Lobster&display=swap');
+.logo {
+    font-family: 'Akronim', cursive;
+    font-family: 'Lobster', cursive;
+    color: darksalmon !important;
+    margin-right: 15px;
+    padding: 0;
+}
+.navLink {
+    text-decoration: none;
+    color: cyan;
+}
+.navLink:hover {
+    color: darksalmon;
+}

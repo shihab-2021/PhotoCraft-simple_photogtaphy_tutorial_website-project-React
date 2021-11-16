@@ -1,0 +1,17 @@
+.details2 {
+    transition: 0.6s;
+    border: 1px solid cyan;
+    border-radius: 10px;
+    min-height: 650px;
+  }
+  .details2:hover {
+    box-shadow: 4px 4px 7px gray;
+    border-radius: 10px;
+    border: 1px solid cyan;
+  }
+  .product-image2 {
+    height: 300px;
+  }
+  .hi {
+    display: none;
+  }
